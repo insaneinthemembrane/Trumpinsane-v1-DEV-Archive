@@ -1,0 +1,9 @@
+Building trumpinsane
+
+See doc/readme-qt.rst for instructions on building trumpinsane QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of trumpinsane.
+
+See doc/build-*.txt for instructions on building trumpinsaned,
+the intended-for-services, no-graphical-interface, reference
+implementation of trumpinsane.
